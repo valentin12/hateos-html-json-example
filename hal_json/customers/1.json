@@ -3,7 +3,7 @@
     "self": {
       "href": "/customers/1"
     },
-    "projects": {
+    "http://rels.innoq.com/projects": {
       "href": "/customers/1/projects"
     }
   },

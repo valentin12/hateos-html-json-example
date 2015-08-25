@@ -1,7 +1,7 @@
 {
   "_links": {
     "self": {"href": "/projects"},
-    "items": [
+    "http://rels.innoq.com/project": [
       {
         "href": "/projects/1",
         "title": "Project 1"

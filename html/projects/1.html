@@ -7,12 +7,17 @@
 <body>
 <h1>Project 1</h1>
 <div class="project">
-    <p><a rel="up" href="/projects">All projects</a></p>
     <a rel="self" href="/projects/1"></a>
-    <a rel="customer" href="/customers/1">Customer</a>
-    <span class="name">Project 1</span>
-    <span class="total">20000</span>
-    <span class="currency">USD</span>
+    <a rel="http://rels.innoq.com/customer" href="/customers/1">Customer</a>
+    <dl>
+        <dt>name</dt><dd>Project 1</dd>
+    </dl>
+    <div class="budget">
+        <dl>
+            <dt>total</dt><dd>20000</dd>
+            <dt>currency</dt><dd>USD</dd>
+        </dl>
+    </div>
 </div>
 </body>
 </html>

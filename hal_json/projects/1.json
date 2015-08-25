@@ -3,14 +3,13 @@
     "self": {
       "href": "/projects/1"
     },
-    "up": {
-      "href": "/projects"
-    },
-    "customer": {
+    "http://rels.innoq.com/customer": {
       "href": "/customers/1"
     }
   },
   "name": "Project 1",
-  "total": 20000,
-  "currency": "USD"
+  "budget": {
+    "total": 20000,
+    "currency": "USD"
+  }
 }
