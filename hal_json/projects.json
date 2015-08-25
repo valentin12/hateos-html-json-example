@@ -1,0 +1,15 @@
+{
+  "_links": {
+    "self": {"href": "/projects"},
+    "items": [
+      {
+        "href": "/projects/1",
+        "title": "Project 1"
+      },
+      {
+        "href": "/projects/2",
+        "title": "Project 2"
+      }
+    ]
+  }
+}

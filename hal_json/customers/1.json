@@ -1,0 +1,11 @@
+{
+  "_links": {
+    "self": {
+      "href": "/customers/1"
+    },
+    "projects": {
+      "href": "/customers/1/projects"
+    }
+  },
+  "name": "Customer 1"
+}

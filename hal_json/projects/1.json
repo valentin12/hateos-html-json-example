@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "/projects/1"
+    },
+    "up": {
+      "href": "/projects"
+    },
+    "customer": {
+      "href": "/customers/1"
+    }
+  },
+  "name": "Project 1",
+  "total": 20000,
+  "currency": "USD"
+}
